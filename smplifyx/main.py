@@ -28,7 +28,7 @@ import time
 import yaml
 import torch
 
-import smplx
+import smplx_d
 
 from utils import JointMapper
 from cmd_parser import parse_config
