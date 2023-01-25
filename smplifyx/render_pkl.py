@@ -21,7 +21,7 @@ import os.path as osp
 import argparse
 import pickle
 import torch
-import smplx_d
+import smplx_d as smplx
 
 from cmd_parser import parse_config
 from human_body_prior.tools.model_loader import load_vposer
